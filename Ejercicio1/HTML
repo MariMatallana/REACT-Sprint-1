@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Web</title>
+  <link rel="stylesheet" href="CSS.css" />
+</head>
+
+<body>
+
+  <div>
+    <section class="box1">
+      <p class="column1">.</p>
+      <p class="column2">.</p>
+      <p class="column3">.</p>
+    </section>
+
+    <section class="box2">
+      <p class="column4">.</p>
+    </section>
+  </div>
+
+  <div class="div1">
+    <section class="box3">
+        <p class="column5">.</p>
+        <p class="column6">.</p>
+        <p class="column11">.</p>
+    </section>
+
+    <section class="box6">
+      <p class="column9">.</p>
+      <p class="column10">.</p>
+      <p class="column12">.</p>
+    </section>
+  
+
+    <section class="box4">
+      <p class="column7">.</p>
+      <p class="column8">.</p>
+    </section>
+
+  </div>
+
+  </div>
+
+  <div class="box5">
+    <p class="column20">.</p>
+  </div>
+
+</body>
+
+</html>
