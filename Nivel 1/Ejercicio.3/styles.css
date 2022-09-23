@@ -146,7 +146,7 @@
     height: 10px
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 480px) {
     .flex-container1 {
         flex-direction: column;
         margin: 10px;
